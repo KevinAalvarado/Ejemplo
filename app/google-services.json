@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394328971273",
+    "project_id": "fir-project-66da6",
+    "storage_bucket": "fir-project-66da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394328971273:android:8ede7fd8214eeccd2f40d8",
+        "android_client_info": {
+          "package_name": "kevin.alvarado.registroyloginfirebasekevin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiosl666Aw7C1xF1MFvf7hyEfeMEayGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
